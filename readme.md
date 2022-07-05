@@ -3,6 +3,9 @@
 推送命令
 
 ```
-git push origin master
+git add ./
+git commit -m "msg"
+git push
 ```
 
+这边的msg就是自定义消息内容
